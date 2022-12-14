@@ -1,0 +1,6 @@
+github.com/graphql-go/graphql v0.8.0 h1:JHRQMeQjofwqVvGwYnr8JnPTY0AxgVy1HpHSGPLdH0I=
+github.com/graphql-go/graphql v0.8.0/go.mod h1:nKiHzRM0qopJEwCITUuIsxk9PlVlwIiiI8pnJEhordQ=
+github.com/graphql-go/relay v0.0.0-20171208134043-54350098cfe5 h1:7fNeIw+3vvQjnJWi+ayQfpz8Y1l788ZGsvrP7cGBG2M=
+github.com/graphql-go/relay v0.0.0-20171208134043-54350098cfe5/go.mod h1:JaXUeU9JGLA7FGTZJ254WFzDz8NMfE9Pym6ipTmFnP4=
+golang.org/x/net v0.4.0 h1:Q5QPcMlvfxFTAPV0+07Xz/MpK9NTXu2VDUuy0FeMfaU=
+golang.org/x/net v0.4.0/go.mod h1:MBQ8lrhLObU/6UmLb4fmbmk5OcyYmqtbGd/9yIeKjEE=
